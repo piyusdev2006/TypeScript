@@ -195,3 +195,45 @@ let music1 = new Music("Shape of You", "Ed Sheeran", 2017);
 
 
 music1.name = "Perfect"; // allowed but it's create a big problem
+
+
+
+/*
+  *Functions
+  *Functions types
+  *optional and default parameters
+  *Rest parameters
+  *Function overloads
+ *Function overload
+
+*/
+
+
+
+
+/*
+  *Generics in TypeScript
+  *Generic functions
+  *Generic interfaces
+  *Generic classes
+  *Generic constraints (abhi nhi padha)
+  *Utility types (abhi nhi padha)
+*/
+
+
+
+/*
+  *Modules in Typescript
+ *Exporting and Impoting Modules like :- export payment , export addDetails
+ * export default :- export default payment;
+ *Named {Payment, addDetils} importes
+ *default import :- import payment from './payment';
+*/
+
+
+
+/*
+  *Type Assertion
+  *Type Casting
+  *Non-null Assertion Operator (!) used at the end of database connection url string configured in typescript
+*/
