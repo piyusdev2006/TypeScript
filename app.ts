@@ -1,3 +1,5 @@
+// ** TypeScript Domination
+
 // Basic Types
 
 // Primitive Types (number, string, boolean)
